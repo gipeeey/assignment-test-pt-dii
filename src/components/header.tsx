@@ -9,7 +9,7 @@ const Header = () => {
         <p className="text-2xl">Reusable Button Component</p>
       </div>
       <div className="flex items-center justify-center gap-x-4">
-        <a href="#">
+        <a href="https://github.com/gipeeey/assignment-test-pt-dii">
           <Button
             asChild
             type="button"
@@ -21,7 +21,7 @@ const Header = () => {
           </Button>
         </a>
         <div className="w-px h-6 bg-white" />
-        <a href="#">
+        <a href="https://www.figma.com/design/t7hJ5PmkJediZJ5AGK82uE/Assigment-Test---Mockup?node-id=0-1&t=dbEo1y8fMZlqTTVM-1">
           <Button
             asChild
             type="button"
