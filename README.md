@@ -107,6 +107,8 @@ Made with 💻 by [@gipeeey](https://github.com/gipeeey)
 
 ![preview image](./image.png)
 
+https://assignment-test-pt-dii.vercel.app/
+
 ---
 
 ## License
